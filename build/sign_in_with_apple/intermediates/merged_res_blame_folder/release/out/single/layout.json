@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\82f96e91e11a847c27582a669e43f573\\browser-1.2.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\ba09a7b99309a24327f5de63699f7eab\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\82f96e91e11a847c27582a669e43f573\\browser-1.2.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    }
+]

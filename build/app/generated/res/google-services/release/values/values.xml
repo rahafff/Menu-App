@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">282817037621-fuud4a76sc9qhbrlchnb3281ua7t496v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">282817037621</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-nmnxRdsllKPHcAno2aPXzPAzF-zgrIE</string>
+    <string name="google_app_id" translatable="false">1:282817037621:android:7f9537b44163a4c339f87c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-nmnxRdsllKPHcAno2aPXzPAzF-zgrIE</string>
+    <string name="google_storage_bucket" translatable="false">rightware-dde4d.appspot.com</string>
+    <string name="project_id" translatable="false">rightware-dde4d</string>
+</resources>

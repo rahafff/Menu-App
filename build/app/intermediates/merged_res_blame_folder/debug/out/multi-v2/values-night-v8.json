@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,889",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "531,1055"
+                    },
+                    "to": {
+                        "startLines": "3,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,458",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "453,622"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\58e9df5ad297f22e9936a8ae15ddd0d6\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "627,697,781,865,961,1063,1165,1259",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "692,776,860,956,1058,1160,1254,1343"
+                    }
+                },
+                {
+                    "source": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\android\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "46",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

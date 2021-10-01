@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\firebase_remote_config\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\c0f84163af317061848149e72c22986f\\core-1.2.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\firebase_remote_config\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\c0f84163af317061848149e72c22986f\\core-1.2.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\firebase_remote_config\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\c0f84163af317061848149e72c22986f\\core-1.2.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Rightware\\client\\flutter\\build\\firebase_remote_config\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-2\\files-2.1\\c0f84163af317061848149e72c22986f\\core-1.2.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
