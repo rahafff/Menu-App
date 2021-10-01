@@ -16,7 +16,7 @@ First of all what we need to make this project work on our platforms
 **Step 1:**
 Download or clone this repo by using the link below:
 
-       git clone --single-branch --branch dev-client https://github.com/yes-soft-de/twaslna- delivery.git
+       git clone https://github.com/rahafff/Menu-App.git
        
 **Step 2:**
 Go to project root and execute the following command in console to get the required dependencies: 
