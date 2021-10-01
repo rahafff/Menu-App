@@ -1,6 +1,5 @@
 
-# Test App
-A Delivery App for Clients.
+# Menu App
 
 To make this project work on your Platform 
 
