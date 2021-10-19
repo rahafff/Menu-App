@@ -8,7 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8be6d6-3197-49c5-98af-580dfe897a14" name="Default Changelist" comment="" />
+    <list default="true" id="5b8be6d6-3197-49c5-98af-580dfe897a14" name="Default Changelist" comment="readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../sdk/sdk/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633126702281</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="readme">
+      <created>1634627784803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634627784803</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,10 +221,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1634627623228" />
-    <state x="292" y="42" key="Vcs.Push.Dialog.v2" timestamp="1633126790906">
+    <state x="292" y="42" key="Vcs.Push.Dialog.v2" timestamp="1634627808548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="292" y="42" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1633126790906" />
+    <state x="292" y="42" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1634627808548" />
     <state x="414" y="157" width="1166" height="528" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1633122702657">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,10 +233,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1633130455739" />
-    <state x="507" y="136" width="587" height="592" key="find.popup" timestamp="1633129796232">
+    <state x="507" y="136" width="587" height="592" key="find.popup" timestamp="1634627661061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="507" y="136" width="587" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1633129796232" />
+    <state x="507" y="136" width="587" height="592" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1634627661061" />
     <state x="453" y="76" key="git4idea.branch.GitSmartOperationDialog" timestamp="1633126109328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

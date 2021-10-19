@@ -1,5 +1,5 @@
 
-## Menu App test
+# Menu App
 
 To make this project work on your Platform 
 
@@ -80,12 +80,6 @@ Please check of your build config in the dir : Project -> android -> app -> buil
 
 # Finally
 In Android studio menu tools -> Flutter -> Flutter Pub Get
-
-Wait.... 
-
-**Note :** if shows you some error check your internet connection and if you are in forbidden country make sure to turn vpn on
-
- **And Build run**
 
 
 
