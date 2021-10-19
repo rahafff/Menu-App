@@ -2,6 +2,8 @@
 //  Generated file. Do not edit.
 //
 
+// clang-format off
+
 #import "GeneratedPluginRegistrant.h"
 
 #if __has_include(<cloud_firestore/FLTFirebaseFirestorePlugin.h>)
@@ -106,12 +108,6 @@
 @import sign_in_with_apple;
 #endif
 
-#if __has_include(<soundpool/SoundpoolPlugin.h>)
-#import <soundpool/SoundpoolPlugin.h>
-#else
-@import soundpool;
-#endif
-
 #if __has_include(<uni_links/UniLinksPlugin.h>)
 #import <uni_links/UniLinksPlugin.h>
 #else
@@ -144,7 +140,6 @@
   [FLTSharePlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTSharePlugin"]];
   [FLTSharedPreferencesPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTSharedPreferencesPlugin"]];
   [SignInWithApplePlugin registerWithRegistrar:[registry registrarForPlugin:@"SignInWithApplePlugin"]];
-  [SoundpoolPlugin registerWithRegistrar:[registry registrarForPlugin:@"SoundpoolPlugin"]];
   [UniLinksPlugin registerWithRegistrar:[registry registrarForPlugin:@"UniLinksPlugin"]];
   [FLTURLLauncherPlugin registerWithRegistrar:[registry registrarForPlugin:@"FLTURLLauncherPlugin"]];
 }

@@ -8,15 +8,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8be6d6-3197-49c5-98af-580dfe897a14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="5b8be6d6-3197-49c5-98af-580dfe897a14" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@R58M34N6AWP]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\GHaith Bibars\.android\avd\Pixel_4_API_29.avd]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -30,11 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="maine" />
+        <entry key="$USER_HOME$" value="maine" />
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ysQwVYDIRwv26jAbhBcZZsLrvj" />
@@ -52,7 +50,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -141,6 +139,11 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -152,7 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
+      <path value="$USER_HOME$" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="deleted folder" />
@@ -206,10 +209,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1633122087878" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1633130512201">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1634627623228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1633130512201" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1634627623228" />
     <state x="292" y="42" key="Vcs.Push.Dialog.v2" timestamp="1633126790906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

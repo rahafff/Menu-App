@@ -116,7 +116,7 @@ dev_dependencies:
   # Flutter Native Splash Screen
 #  flutter_native_splash: ^1.1.8+4
   scroll_to_index: ^2.0.0
-  soundpool: ^2.1.0
+#  soundpool: ^2.1.0
   pinch_zoom: ^1.0.0
   flutter_rating_bar: ^4.0.0
 #flutter_icons:
